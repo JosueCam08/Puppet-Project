@@ -1,0 +1,7 @@
+﻿  Cube.cpp
+C:\Users\Usuario\Documents\Universidad\DEMAT\5to Semestre\Graficas por computadora\Puppet\Cube.cpp(145,12): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Documents\Universidad\DEMAT\5to Semestre\Graficas por computadora\Puppet\Cube.cpp(167,12): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Main.cpp
+  bodyPart.cpp
+  Generando código...
+  Puppet.vcxproj -> C:\Users\Usuario\Documents\Universidad\DEMAT\5to Semestre\Graficas por computadora\Puppet\x64\Debug\Puppet.exe
